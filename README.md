@@ -22,12 +22,11 @@ yum install podman
 ```
 
 Create a working directory:
-
+```bash
 mkdir -p lalug/bundle lalug/lalug-pod 
-
 cd lalug 
 git clone https://github.com/LALUG/lalug.github.io.git
-
+```
 create a file pod.sh with your favorite editor and safe the following script:
 ```bash
 # Gemfile lock has to be owned by apache:apache
@@ -44,7 +43,10 @@ podman run -it --rm --name jekyll \
   docker.io/jekyll/jekyll:3.8.5 \
   jekyll serve --drafts
 ```
+Make script executable:
+```bash
 chmod +x pod.sh 
+```
 
 Now you can start the pod using the ./pod.sh script and your system keeps clean from all the needed jekyll dependencies. 
 

@@ -2,6 +2,14 @@
   url: /
   external: false
 
+- title: events
+  url: /events/
+  external: false
+
+- title: projekte
+  url: /projekte/
+  external: false
+
 - title: archive
   url: /archive/
   external: false

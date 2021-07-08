@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: LaLUG - Landshuter-Linux-User-Group
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Die Landshuter-Linux-User-Group ist ein Treffpunkt für Interessierte rund um das Thema Linux
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Eine LUG (Linux-User-Group) ist ein Zusammenschluss von Personen mit der Gemeinsamkeit des Interesses rund um Linux.
+Die Landshuter-Linux-User-Group besteht aus Personen mit verschiedensten Hintergründen. Einige nutzen Linux basierte Betriebssysteme für die Arbeit, andere im privaten Umfeld. Die LaLUG biete die Möglichkeit sich über Technologien und Erfahrungen rund um Linux lokal mit anderen auszutauschen. 
 
-If you have a question about him or else, just send a letter to him.
+Wir pflegen einen offenen, freundlichen und hilfsbereiten Umgang und freuen uns auf Jede/n der unter diesen Gesichtspunkten Austausch sucht.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Kontakt: 
 
-**may u needs ✨**
 
+- IRC: Freenode - Channel #lalug
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- github.com/lalug
